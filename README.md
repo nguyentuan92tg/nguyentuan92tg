@@ -41,9 +41,9 @@ Feature work and maintenance on VitalQIP and VitalSuite for clients in the US an
 
 ## Education
 
-Bachelor's degree, Computer Systems Networking and Telecommunications  
+Bachelor's degree, Computer Systems
 Posts and Telecommunications Institute of Technology · 2010 – 2015
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/tuan-nguyen-0a5a1b106/) · [GitHub](https://github.com/nguyentuan92tg)
+[LinkedIn](https://www.linkedin.com/in/tuan-nguyen-0a5a1b106/) 
