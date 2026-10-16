@@ -92,9 +92,9 @@ Two network-management products, both with large teams.
 
 ## Education
 
-Bachelor's degree, Computer Systems
+Bachelor's degree, Computer Systems Networking and Telecommunications  
 Posts and Telecommunications Institute of Technology · 2010 – 2015
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/tuan-nguyen-0a5a1b106/) 
+[LinkedIn](https://www.linkedin.com/in/tuan-nguyen-0a5a1b106/)
