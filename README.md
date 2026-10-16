@@ -92,7 +92,7 @@ Two network-management products, both with large teams.
 
 ## Education
 
-Bachelor's degree, Computer Systems Networking and Telecommunications  
+Bachelor's degree, Computer Systems
 Posts and Telecommunications Institute of Technology · 2010 – 2015
 
 ## Contact
