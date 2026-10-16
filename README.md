@@ -6,7 +6,7 @@ I currently build [Casebook](https://casebook.net), a cloud SaaS platform that h
 
 ## How I work
 
-The products I work on stay configurable: data, workflows, notifications, and persistence change per customer. I work on both sides of the API, Spring on the service and React with TypeScript on the client, usually through GraphQL and Apollo. Reviews, the test pyramid, and mentoring are part of delivery, not a separate phase.
+The products I work on stay configurable: data, workflows, notifications, and persistence change per customer. I work on both sides of the API, Spring on the service and React with TypeScript on the client, usually through GraphQL and Apollo. Reviews, the test pyramid, and mentoring are part of delivery, not a separate phase. Day to day I develop in Cursor and Claude Code.
 
 ## Experience
 
@@ -40,6 +40,7 @@ Java, Spring, Hibernate, Qooxdoo, Oracle, and MySQL.
 | API | GraphQL, Apollo, REST |
 | Data | PostgreSQL, MySQL, SQL Server, Oracle, MongoDB, Redis, Elasticsearch |
 | Cloud and delivery | AWS (RDS, SQS, S3), Azure, Docker, Kubernetes, Kafka, Jenkins, GitHub, GitLab |
+| Development | Cursor, Claude Code |
 
 ## Education
 
